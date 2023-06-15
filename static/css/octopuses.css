@@ -1,0 +1,40 @@
+#octopus-1 {
+    width: 1000px;
+    background-repeat: no-repeat;
+    background-size: auto auto;
+    margin-top: -100px;
+    margin-left: -600px;
+}
+
+#octopus-2 {
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: auto auto;
+    margin-top: -90px;
+    margin-right: -170px;
+    transform: rotate(300deg);
+}
+
+#octopus-3 {
+    width: 1000px;
+    background-repeat: no-repeat;
+    background-size: auto auto;
+    margin-left: -200px;
+    margin-bottom: -80px;
+}
+
+#octopus-4 {
+    width: 800px;
+    background-repeat: no-repeat;
+    background-size: auto auto;
+    margin-top: -110px;
+    margin-left: -500px;
+}
+
+#octopus-5 {
+    width: 800px;
+    background-repeat: no-repeat;
+    background-size: auto auto;
+    margin-top: -110px;
+    margin-left: -350px;
+}
