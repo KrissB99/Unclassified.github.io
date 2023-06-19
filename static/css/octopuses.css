@@ -1,40 +1,32 @@
 #octopus-1 {
-    width: 1000px;
-    background-repeat: no-repeat;
-    background-size: auto auto;
-    margin-top: -100px;
-    margin-left: -600px;
+    position: absolute;
+    width: 55%;
+    top: 0%;
+    left: -26%;
 }
 
-#octopus-2 {
-    width: 400px;
-    background-repeat: no-repeat;
-    background-size: auto auto;
-    margin-top: -90px;
-    margin-right: -170px;
+/* #octopus-2 {
+    position: absolute;
+    width: 22%;
+    margin: 0;
+    padding: 0;
+    right: -7%;
     transform: rotate(300deg);
-}
+} */
 
 #octopus-3 {
-    width: 1000px;
-    background-repeat: no-repeat;
-    background-size: auto auto;
-    margin-left: -200px;
-    margin-bottom: -80px;
+    position: absolute;
+    width: 40%;
+    left: 1%;
+    bottom: 0;
 }
 
 #octopus-4 {
-    width: 800px;
-    background-repeat: no-repeat;
-    background-size: auto auto;
-    margin-top: -110px;
-    margin-left: -500px;
+    position: absolute;
+    width: 35%;
 }
 
 #octopus-5 {
-    width: 800px;
-    background-repeat: no-repeat;
-    background-size: auto auto;
-    margin-top: -110px;
-    margin-left: -350px;
+    position: absolute;
+    width: 35%;
 }

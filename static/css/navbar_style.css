@@ -4,6 +4,7 @@
   }
   
 .custom-navbar {
+    position: relative;
     background-color: #F6E9D8;
     width: 100%;
     height: 7vh;
