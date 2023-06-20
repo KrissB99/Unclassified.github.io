@@ -1,21 +1,26 @@
-#unclassified-section {
+#about-unclassified-section {
     width: 100%;
-    background-image: linear-gradient(to bottom, #d3eb08, #030e66);
+    background-color: #31477A;
 }
 
 #e2t-section {
     width: 100%;
-    background-image: linear-gradient(to bottom, #eb8908, #030e66);
+    background-color: #E6AF2E;
 }
 
 #chatbox-section {
     width: 100%;
-    background-image: linear-gradient(to bottom, #2ecfda, #030e66);
+    background-color: #31477A;
 }
 
 #voicebot-section {
     width: 100%;
-    background-image: linear-gradient(to bottom, #abce2c, #030e66);
+    background-color: #1C2E64;
+}
+
+#dark-blue-section { 
+    width: 100%;
+    background-image: linear-gradient(to bottom, #31477A, #030e66);
 }
 
 .full-height-section {

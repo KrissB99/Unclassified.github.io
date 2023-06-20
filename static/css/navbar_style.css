@@ -5,9 +5,9 @@
   
 .custom-navbar {
     position: relative;
-    background-color: #F6E9D8;
+    background-color: #CFE0F1;
     width: 100%;
-    height: 7vh;
+    height: 6vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,13 +24,13 @@
 }
 
 .nav-orange {
-    background-color: #eb8908 !important;
+    background-color: #E6AF2E !important;
 }
 
 .nav-blue {
-    background-color: #2ecfda !important;
+    background-color: #31477A !important;
 }
 
 .nav-greenish {
-    background-color: #abce2c !important;
+    background-color: #CFE0F1 !important;
 }
