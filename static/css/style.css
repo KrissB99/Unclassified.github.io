@@ -22,10 +22,13 @@ body {
     position: relative;
     left: 0;
     bottom: 0;
-    height: 10vh;
+    height: 7vh;
     width: 100%;
-    background-color: #F6E9D8;
+    background-color: #CFE0F1;
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: end;
 }
 
 .product-name {
