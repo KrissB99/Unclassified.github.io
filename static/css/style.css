@@ -27,3 +27,14 @@ body {
     background-color: #F6E9D8;
     text-align: center;
 }
+
+.product-name {
+    font-family: chiaroscuroFont;
+    color: #E6AF2E;
+    font-size: 6rem;
+    font-weight: 600;
+}
+
+.dark {
+    color: #1C2E64;
+}
